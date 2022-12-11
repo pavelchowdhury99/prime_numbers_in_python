@@ -1,2 +1,2 @@
-# prime_numbers_in_python
-To get all the prime in a range  
+# Get all the prime numbers in a given range in Python
+Covered 4 approaches
